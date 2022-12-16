@@ -185,7 +185,7 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-beans</artifactId>
-			<version>5.2.1.RELEASE</version>
+			<version>5.2.20.RELEASE</version>
 		</dependency>
 
 		<!-- 谷歌的工具包 -->
