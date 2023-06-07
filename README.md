@@ -90,6 +90,18 @@
 - [ElasticSearch实战系列七: Logstash实战使用-图文讲解](https://www.cnblogs.com/xuwujing/p/13520666.html)
 - [ElasticSearch实战系列八: Filebeat快速入门和使用---图文详解](https://www.cnblogs.com/xuwujing/p/13532125.html)
 - [ElasticSearch实战系列九: ELK日志系统介绍和安装](https://www.cnblogs.com/xuwujing/p/13870806.html)
+- [ElasticSearch实战系列十: ElasticSearch冷热分离架构](https://www.cnblogs.com/xuwujing/p/14599290.html)
+- [ElasticSearch实战系列十一: ElasticSearch错误问题解决方案](https://www.cnblogs.com/xuwujing/p/14806392.html)
+
+**手记系列:**
+
+[手记系列](https://www.cnblogs.com/xuwujing/category/2236708.html)
+
+- [手记系列之一 ----- 关于微信公众号和小程序的开发流程](https://www.cnblogs.com/xuwujing/p/16841577.html)
+- [手记系列之二 ----- 关于IDEA的一些使用方法经验](https://www.cnblogs.com/xuwujing/p/16862451.html)
+- [手记系列之三 ----- 关于使用Nginx的一些使用方法和经验](https://www.cnblogs.com/xuwujing/p/16885964.html)
+- [手记系列之四 ----- 关于使用MySql的经验](https://www.cnblogs.com/xuwujing/p/17356379.html)
+
 
 
 **其他博客:**
@@ -103,6 +115,8 @@
 - [一个毕业三年的程序猿对于提升自我的一些建议](https://www.cnblogs.com/xuwujing/p/11735726.html)
 - [认清自我，不在迷茫！2019个人年终总结！](https://www.cnblogs.com/xuwujing/p/12174112.html)
 - [纵然前路坎坷，也要毅然前行！2020年终总结！](https://www.cnblogs.com/xuwujing/p/14233270.html)
+- [有一点思考的2021年终总结！](https://www.cnblogs.com/xuwujing/p/15746791.html)
+- [一个想活得简单的程序猿的2022年终总结！](https://www.cnblogs.com/xuwujing/p/17060965.html)
 
 ## 其他
 
