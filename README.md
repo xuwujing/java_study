@@ -95,7 +95,6 @@
 
 **手记系列:**
 
-[手记系列](https://www.cnblogs.com/xuwujing/category/2236708.html)
 
 - [手记系列之一 ----- 关于微信公众号和小程序的开发流程](https://www.cnblogs.com/xuwujing/p/16841577.html)
 - [手记系列之二 ----- 关于IDEA的一些使用方法经验](https://www.cnblogs.com/xuwujing/p/16862451.html)
