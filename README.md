@@ -100,6 +100,9 @@
 - [手记系列之二 ----- 关于IDEA的一些使用方法经验](https://www.cnblogs.com/xuwujing/p/16862451.html)
 - [手记系列之三 ----- 关于使用Nginx的一些使用方法和经验](https://www.cnblogs.com/xuwujing/p/16885964.html)
 - [手记系列之四 ----- 关于使用MySql的经验](https://www.cnblogs.com/xuwujing/p/17356379.html)
+- [手记系列之五 ----- SQL使用经验分享](https://www.cnblogs.com/xuwujing/p/17444266.html)
+- [手记系列之六 ----- 分享个人使用kafka经验](https://www.cnblogs.com/xuwujing/p/17466519.html)
+- [手记系列之七 ----- 分享Linux使用经验](https://www.cnblogs.com/xuwujing/p/17807802.html)
 
 
 
@@ -116,6 +119,7 @@
 - [纵然前路坎坷，也要毅然前行！2020年终总结！](https://www.cnblogs.com/xuwujing/p/14233270.html)
 - [有一点思考的2021年终总结！](https://www.cnblogs.com/xuwujing/p/15746791.html)
 - [一个想活得简单的程序猿的2022年终总结！](https://www.cnblogs.com/xuwujing/p/17060965.html)
+- [写给步入三十的自己，2023年终总结!](https://www.cnblogs.com/xuwujing/p/17868627.html)
 
 ## 其他
 
