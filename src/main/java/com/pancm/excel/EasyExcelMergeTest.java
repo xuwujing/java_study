@@ -123,10 +123,8 @@ public class EasyExcelMergeTest {
             if (CollectionUtils.isEmpty(exportDataList)) {
                 return new ArrayList<>();
             }
-
             List<Integer> groupCountList = new ArrayList<>();
             int count = 1;
-
             for (int i = 1; i < exportDataList.size(); i++) {
                 if (exportDataList.get(i).equals(exportDataList.get(i - 1))) {
                     count++;
