@@ -96,13 +96,10 @@ public class EsHighLevelRestTest2 {
 		request.add(new MultiGetRequest.Item("user", "userindex", "2"));
 		// 禁用源检索，默认启用
 //		request.add(new MultiGetRequest.Item("user", "userindex", "2").fetchSourceContext(FetchSourceContext.DO_NOT_FETCH_SOURCE));
-
 		// 同步构建
 		MultiGetResponse response = client.mget(request, RequestOptions.DEFAULT);
-
 		// 异步构建
 //		MultiGetResponse response2 = client.mgetAsync(request, RequestOptions.DEFAULT, listener);
-
 		/*
 		 * 返回的MultiGetResponse包含在' getResponses中的MultiGetItemResponse的列表，其顺序与请求它们的顺序相同。
 		 * 如果成功，MultiGetItemResponse包含GetResponse或MultiGetResponse。如果失败了就失败。
